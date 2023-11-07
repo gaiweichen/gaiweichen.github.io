@@ -1,3 +1,11 @@
+---
+title: 'Notes_Misc_Math'
+permalink: /notes/notes_analysis/
+tags:
+  - notes
+  - analysis
+---
+
 - [set theory](#set-theory)
       - [One-to-one](#one-to-one)
       - [Onto](#onto)
