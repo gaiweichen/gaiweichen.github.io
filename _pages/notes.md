@@ -8,4 +8,4 @@ author_profile: true
 Various notes.  
 WIP
 
-[Notes-Math_misc](https://gaiweichen.github.io/notes/notes_math_misc)
+[Notes-Math_misc](https://gaiweichen.github.io/notes/notes_misc_math)
