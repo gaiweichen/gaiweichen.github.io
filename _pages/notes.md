@@ -9,4 +9,5 @@ Various notes.
 WIP
 
 [Notes-Math_misc](https://gaiweichen.github.io/notes/notes_misc_math)
+
 [Notes-Analysis](https://gaiweichen.github.io/notes/notes_analysis)
